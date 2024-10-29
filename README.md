@@ -1,2 +1,3 @@
-# Mamun-75-cse12-
+# Md Abdullah All Mamun
+#id 111223075
 This is the repository for algorithm assaignment
