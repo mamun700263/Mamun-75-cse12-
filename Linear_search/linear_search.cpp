@@ -23,7 +23,7 @@ int main(){
         }
     }
 
-    if(!true)cout<<-1;
+    if(!found)cout<<-1;
 
 
     return 0;

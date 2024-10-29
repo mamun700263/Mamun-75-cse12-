@@ -20,7 +20,7 @@ found =false;
         }
     }
 
-    if(!true)cout<<-1;
+    if(!found)cout<<-1;
 
 
 ## a full code is given in the linear_search.cpp file where you can input an array and a target value . If target is present it will let you know by giving the index of the target else it will return -1;
