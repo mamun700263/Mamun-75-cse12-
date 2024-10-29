@@ -9,9 +9,11 @@
 ** Done **
 
 ## it would look like this
+```cpp
 array  = [1,2,3,4,5,6]
 target = 4
 found =false;
+
     for(int i=0;i<size;i++){
         if(array[i]==target){
             cout<<"Found the target at index "<<i<<endl;
@@ -23,7 +25,7 @@ found =false;
     if(!found)cout<<-1;
 
 
-## a full code is given in the linear_search.cpp file where you can input an array and a target value . If target is present it will let you know by giving the index of the target else it will return -1;
+a full code is given in the [code](linear_search.cpp) file where you can input an array and a target value . If target is present it will let you know by giving the index of the target else it will return -1;
 
 
 
