@@ -14,6 +14,9 @@ This repository contains the algorithm assignment. Each folder corresponds to an
 1. Linear Search
 -   [Document](/Linear_search/linear_search.md) 
 -   [code](/Linear_search/linear_search.cpp)
+1. Binary Search
+-   [Document](/Binary_Search/Binary_search.md) 
+-   [code](/Binary_Search/Binary_search.cpp)
 
 ---
 
